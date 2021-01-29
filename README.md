@@ -5,7 +5,9 @@ Responsive, mobile-first website based on Bootstrap framework.
 Counting up animation which uses jquery plugins:
 waypoints and counterup.
 
-showcase with carousel
+showcase with carousel- slideshow component for cycling through elements.
+In this carousel have been used:indicators alongside the previous and next controls and  captions
+.
 
 video section open in popup window (Bootstrap’s modal component) that is displayed on top of the current page.
 
