@@ -74,7 +74,7 @@ body {
 /* info 
 remove display*/
 .info-heading {
-  color: red;
+  color: orange;
   display: none;
 }
 
@@ -103,6 +103,14 @@ remove display*/
   position: relative;
 }
 
+/*p photo gallery */
+
+.orange {
+  color: orange;
+}
+.bg-orange {
+  background-color: orange;
+}
 /* footer */
 
 #main-footer {
